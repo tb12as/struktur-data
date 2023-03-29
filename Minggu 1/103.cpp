@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int result;
-
 int fib(int n)
 {
     if (n <= 1)

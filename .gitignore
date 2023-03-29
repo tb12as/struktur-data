@@ -1,4 +1,7 @@
 *.out
 */output
 /output/*
+_temp
 *.pdf
+*.pptx
+*.exe
